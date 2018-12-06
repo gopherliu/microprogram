@@ -1,4 +1,4 @@
-package single
+package linked
 
 import (
 	"errors"
